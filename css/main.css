@@ -5,8 +5,11 @@
 
 .navbar .nav-item .nav-link{
     color: white;
+    
 }
-
+.navbar{
+    background-color: #30336b;
+}
 .main-header{
     position: relative;
     background: url(../img/background.jpg) no-repeat;
